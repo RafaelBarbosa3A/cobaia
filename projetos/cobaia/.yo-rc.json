@@ -1,0 +1,37 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.mycompany.myapp"
+    },
+    "jhipsterVersion": "6.6.0",
+    "applicationType": "microservice",
+    "baseName": "cobaia",
+    "packageName": "com.mycompany.myapp",
+    "packageFolder": "com/mycompany/myapp",
+    "serverPort": "8787",
+    "authenticationType": "jwt",
+    "cacheProvider": "no",
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mariadb",
+    "prodDatabaseType": "mariadb",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "ZDU0MzJiN2FmYTVjZWUyZjdlM2YwYmM0YzY3MWQ5NDFkN2UwM2VkMTYxMGExNzkzZjY0ZDJiMjY0ZTc1NWM4NGE4YTBiMjcwYTRmMjUxMmQxZjVkNWY5NTVlZjNkMDk1MmFmMzNiMmI0MzMwN2E0YjVhOWMxZTcwY2ZiNTE0MTQ=",
+    "embeddableLaunchScript": false,
+    "creationTimestamp": 1579371654026,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "clientPackageManager": "npm",
+    "blueprints": [],
+    "skipClient": true,
+    "skipUserManagement": true
+  }
+}
